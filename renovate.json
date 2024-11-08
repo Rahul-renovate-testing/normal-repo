@@ -1,3 +1,4 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "npmToken": "{ secrets.NPM_TOKEN }"
 }
