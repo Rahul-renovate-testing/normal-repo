@@ -4,5 +4,10 @@
     "matchPackageNames": ["xmldoc"],
     "prConcurrentLimit": 7,
      "prHourlyLimit": 9
-}]
+},
+   {
+     "matchPackageNames": ["xmldoc", "chalk"],
+     "groupName": "limits shared"
+   }
+   ]
 }
