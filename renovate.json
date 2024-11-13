@@ -1,13 +1,3 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-   "packageRules":[{
-    "matchPackageNames": ["xmldoc"],
-    "prConcurrentLimit": 7,
-     "prHourlyLimit": 9
-},
-   {
-     "matchPackageNames": ["xmldoc", "chalk"],
-     "groupName": "limits shared"
-   }
-   ]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
 }
